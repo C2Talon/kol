@@ -1,0 +1,171 @@
+/* General */
+/* c2t */
+/* adapted from my no-longer-existing site */
+
+body {
+	background: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, p, ul, li, td, td pre {
+	font-family: sans-serif;
+	font-size: 10pt;
+}
+h1 {
+	font-size: 14pt;
+}
+h2 {
+	font-size: 12pt;
+}
+h3 {
+	font-size: 11pt;
+}
+code {
+	font-size: 10pt;
+}
+h1, h2, h3, p {
+	margin: 0;
+}
+h1, h2, h3 {
+	text-indent: 5px;
+}
+img {
+	border: 0;
+}
+
+/* IDs and Classes */
+#body {
+	margin: 5px;
+	padding: 0;
+	text-align: left;
+}
+#body #header {
+	background-color: #fff;
+	border: 1px solid #aaa;
+	border-left: none;
+	border-right: none;
+	color: #000;
+	margin: 0 0 10pt 0;
+	padding: 0;
+}
+#body #header h1 {
+	background-color: #ddd;
+	font-weight: bold;
+	padding: 2pt 0 2pt 0;
+}
+#body #header p {
+	border: 1px solid #aaa;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	padding: 2pt 5px 2pt 5px;
+	text-indent: 2em;
+}
+#body #header ul {
+	border: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 2pt 5px 2pt 5px;
+	text-indent: 2em;
+}
+#body #header li {
+	border: none;
+	margin: 0;
+	padding: 0;
+	text-indent: 2em;
+}
+#body .article {
+	background-color: #fff;
+	border: 1px solid #aaa;
+	border-left: none;
+	border-right: none;
+	color: #000;
+	margin: 0 0 10pt 0;
+	padding: 0;
+}
+#body .article h2 {
+	background-color: #ddd;
+	border: 1px solid #aaa;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	color: #000;
+	padding: 2pt 0 2pt 0;
+}
+#body .article h3 {
+	background-color: #eee;
+	color: #888;
+	font-weight: bold;
+	padding: 2pt 5px 2pt 5px;
+}
+#body .article h3 a:link,
+#body .article h3 a:visited,
+#body .article h3 a:active,
+#body .article h3 a:hover {
+	color: #00a;
+	/*color: #888;*/
+	text-decoration: none;
+}
+#body .article h3 a:hover {
+	color: #f60;
+}
+#body .article p {
+	padding: 2pt 5px 2pt 5px;
+	text-indent: 2em;
+}
+#body .article ul,
+#body .article ul ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0 5px 10pt 5px;
+}
+#body .article ul.ul5em,
+#body .article ul ul.ul5em {
+	padding: 0 5px 10pt 5em;
+}
+#body .article ul.lastlist,
+#body .article ul ul.lastlist {
+	padding: 0 5px 0 5px;
+}
+#body .article ul.lastlist.ul5em,
+#body .article ul ul.lastlist.ul5em {
+	padding: 0 5px 0 5em;
+}
+#body .article li {
+	margin: 0;
+}
+
+#body .article li li {
+	text-indent: 2em;
+}
+#body #footer p {
+	margin: 0 0 10pt 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+	float: right;
+}
+
+#body .article a:link,
+#body .article a:visited,
+#body .article a:active,
+#body #footer a:link,
+#body #footer a:visited,
+#body #footer a:active,
+#body #header a:link,
+#body #header a:visited,
+#body #header a:active {
+	color: #00a;
+	text-decoration: none;
+}
+#body .article a:hover,
+#body #footer a:hover,
+#body #header a:hover {
+	color: #f60;
+	text-decoration: none;
+}
+#body .lonely {
+	margin: 0 0 10pt 0;
+}
+
