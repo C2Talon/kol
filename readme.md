@@ -63,7 +63,7 @@ whether a monster in combat already has its mimic eggs maxed or not
 
 Adds a few quality of life features to the TakerSpace choice adventure
 
-### [c2t_peridot_relay](https://github.com/C2Talon/c2t_takerSpace_relay)
+### [c2t_peridot_relay](https://github.com/C2Talon/c2t_peridot_relay)
 
 Helps disambiguate monster options in the Peridot of Peril choice
 adventure
