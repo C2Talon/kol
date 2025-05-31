@@ -52,6 +52,11 @@ A variety of small, single-purose, stand-alone scripts
 Automatically train people with the crimbo training manual if they send
 you a kmail request to do so
 
+### [c2t_donateLocket](https://gist.github.com/C2Talon/71913cdbed7a9e44d3044b11d279e112)
+
+Example script that uses a charge of the combat lovers locket to acquire
+and donate mimic eggs that are not yet maxed
+
 ## Relay Override Scripts
 
 ### [c2t_megg_relayCombat](https://github.com/C2Talon/c2t_megg_relayCombat)
