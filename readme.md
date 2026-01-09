@@ -3,10 +3,10 @@
 Table of Contents:
 
 -   [Utility](#Utility)
+-   [Libraries](#Libraries)
 -   [Scripts](#Scripts)
 -   [Relay Override Scripts](#Relay%20Override%20Scripts)
 -   [Choice Adventure Scripts](#Choice%20Adventure%20Scripts)
--   [Libraries](#Libraries)
 -   [Defunct](#Defunct)
 
 ## Utility
@@ -20,6 +20,18 @@ download for those without Perl installed
 ### [vim-kolmafia](https://github.com/C2Talon/vim-kolmafia)
 
 Vim syntax highlighting for the ASH scipting language KoLmafia uses
+
+## Libraries
+
+### [liba](https://github.com/C2Talon/liba)
+
+Library of ASH functions for use in scripts in Kolmafia. Mainly
+functions for IotMs and other things that may not have their own native
+KoLmafia functions
+
+### [c2t_lib](https://github.com/C2Talon/c2t_lib)
+
+Collection of functions I use in various scripts
 
 ## Scripts
 
@@ -59,6 +71,12 @@ and donate mimic eggs that are not yet maxed
 
 ## Relay Override Scripts
 
+### [insertSelect2](https://github.com/C2Talon/insertSelect2)
+
+Used to make drop-down menus searchable in relay override scripts. A
+repo with some already-made scripts that use this can be found here:
+https://github.com/C2Talon/insertSelect2-relays
+
 ### [c2t_megg_relayCombat](https://github.com/C2Talon/c2t_megg_relayCombat)
 
 Relay override script for `fight.php` that adds a line of text to denote
@@ -84,18 +102,6 @@ player\'s inventory
 
 Automate and track the \"Ook the Mook\" choice adventure chain in the
 Time-Twitching Tower
-
-## Libraries
-
-### [liba](https://github.com/C2Talon/liba)
-
-Library of ASH functions for use in scripts in Kolmafia. Mainly
-functions for IotMs and other things that may not have their own native
-KoLmafia functions
-
-### [c2t_lib](https://github.com/C2Talon/c2t_lib)
-
-Collection of functions I use in various scripts
 
 ## Defunct
 
